@@ -1,6 +1,6 @@
 [package]
 name = "tachyon_json"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2024"
 authors = ["Vladislav Feuerbach <feuerbachvladislav@gmail.com>"]
 description = "Ultra-fast json encoding utilities"
