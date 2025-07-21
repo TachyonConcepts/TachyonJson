@@ -1,0 +1,10 @@
+*
+!src/
+!src/**
+!.cargo
+!.cargo/**
+!.gitignore
+!Cargo.lock
+!Cargo.toml
+!README.md
+!LICENSE

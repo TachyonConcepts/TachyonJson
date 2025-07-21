@@ -1,0 +1,17 @@
+[package]
+name = "tachyon_json"
+version = "1.0.0"
+edition = "2024"
+authors = ["Vladislav Feuerbach <feuerbachvladislav@gmail.com>"]
+description = "Ultra-fast json encoding utilities"
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/TachyonConcepts/TachyonJson"
+readme = "README.md"
+keywords = ["json", "perfomance", "encoder", "serialize", "utility"]
+
+[lib]
+name = "tachyon_json"
+path = "src/lib.rs"
+
+[dependencies]
+ryu = "1"
