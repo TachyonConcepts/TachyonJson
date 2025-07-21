@@ -1,3 +1,4 @@
+#[derive(Clone, Copy, Debug)]
 pub struct TachyonBuffer<const N: usize> {
     pub(super) buf: [u8; N],
     pub(super) pos: usize,
